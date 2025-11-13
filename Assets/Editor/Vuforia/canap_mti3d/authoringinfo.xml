@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="5.0" bbox="-13.9852 -1.4751 5.2021 -10.5062 0.3030 9.7483" targetId="827a3ffd517d48ec9c9acabcad162f59" name="canap_mti3d" pathAuthoring="827a3ffd517d48ec9c9acabcad162f59_authoring.glb" pathOcclusion="827a3ffd517d48ec9c9acabcad162f59_occlusion.3dt" pathNavMesh="827a3ffd517d48ec9c9acabcad162f59_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>

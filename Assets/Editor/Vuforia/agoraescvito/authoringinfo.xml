@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="5.0" bbox="3.1078 -1.6350 -13.7183 21.1204 4.3811 1.4779" targetId="da4fafafaeeb4f308a8589900dff7007" name="agoraescvito" pathAuthoring="da4fafafaeeb4f308a8589900dff7007_authoring.glb" pathOcclusion="da4fafafaeeb4f308a8589900dff7007_occlusion.3dt" pathNavMesh="da4fafafaeeb4f308a8589900dff7007_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
