@@ -687,7 +687,7 @@ MonoBehaviour:
   m_OverrideTileSize: 0
   m_TileSize: 256
   m_OverrideVoxelSize: 0
-  m_VoxelSize: 0.033333335
+  m_VoxelSize: 0.06666667
   m_MinRegionArea: 2
   m_NavMeshData: {fileID: 23800000, guid: 7e5e3c10c52a12a4fbc504b3a663b847, type: 2}
   m_BuildHeightMesh: 0
@@ -1032,7 +1032,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 039f4dfba2ee6d6478187b57a76bcfcf, type: 2}
+  - {fileID: 2100000, guid: 91e538f788ecf014691e50aa810cdb11, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
