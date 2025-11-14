@@ -20,4 +20,10 @@ public class DisplayPathfinding : MonoBehaviour
 		lineRenderer.positionCount = path.corners.Length;
 		lineRenderer.SetPositions(path.corners);
 	}
+
+	public void SetTarget(Transform newTarget)
+	{
+		target = newTarget;
+		agent.destination = target.position;
+	}
 }
