@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="XBOXController" targetId="af025e02b6fb4b4298fac6a77da7dfc4" version="14.0" toolVersion="11.4.4" bbox="-0.0757361 -0.039501 -0.0256799 0.0757361 0.0232679 0.0815081" upVector="0 1 0" previewImage="af025e02b6fb4b4298fac6a77da7dfc4_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="XBOXControllers_assembly" assemblyId="ed55b34543f64767bbcacb0c7c976c75">
+<Part name="XBOXController" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0246199 -0.0380778 0.311164" rotation="AD: 0.99983 -0.0994493 0.209405 229.654" image="XBOXController_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.00137004 -0.027932 0.24323" rotation="AD: -1 -0.024398 0.0245552 90.4022" image="XBOXController_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.027871 -0.00775374 0.248311" rotation="AD: 0.985207 0.258813 -0.93192 202.419" image="XBOXController_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.00239683 0.0165719 0.227404" rotation="AD: 0.0992164 -1.10422 2.30673 182.126" image="XBOXController_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

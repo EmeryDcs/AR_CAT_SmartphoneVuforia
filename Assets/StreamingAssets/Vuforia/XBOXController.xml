@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="XBOXController" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="XBOXControllers_assembly" assemblyId="ed55b34543f64767bbcacb0c7c976c75">
+<Part name="XBOXController" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0246199 -0.0380778 0.311164" rotation="AD: 0.99983 -0.0994493 0.209405 229.654" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.00137004 -0.027932 0.24323" rotation="AD: -1 -0.024398 0.0245552 90.4022" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.027871 -0.00775374 0.248311" rotation="AD: 0.985207 0.258813 -0.93192 202.419" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.00239683 0.0165719 0.227404" rotation="AD: 0.0992164 -1.10422 2.30673 182.126" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
