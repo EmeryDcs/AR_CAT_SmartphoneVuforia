@@ -21,13 +21,14 @@ public class BreakingPot : MonoBehaviour
 	{
 		for (int i = 0; i < Input.touchCount; ++i) {
 			Touch touch = Input.GetTouch(i);
-			if (Input.GetTouch(i).phase == TouchPhase.Began) {
+			if (Input.GetTouch(i).phase == TouchPhase.Began)
+			{
+				Debug.Log("Clicked !");
 				// Construct a ray from the current touch coordinates
 				Ray ray = Camera.main.ScreenPointToRay(touch.position);
 				// Create a particle if hit
 				if (Physics.Raycast(ray, 3f)) {
 					OnClick();
-					Debug.Log("Clicked !");
 				}
 			}
 		}
