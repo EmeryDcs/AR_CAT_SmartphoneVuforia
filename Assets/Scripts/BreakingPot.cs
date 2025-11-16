@@ -24,8 +24,9 @@ public class BreakingPot : MonoBehaviour
 			if (Input.GetTouch(i).phase == TouchPhase.Began) {
 				// Construct a ray from the current touch coordinates
 				Ray ray = Camera.main.ScreenPointToRay(touch.position);
+				LayerMask mask = LayerMask.GetMask("Pot");
 				// Create a particle if hit
-				if (Physics.Raycast(ray, 3f)) {
+				if (Physics.Raycast(ray, 3f, mask)) {
 					OnClick();
 					Debug.Log("Clicked !");
 				}
